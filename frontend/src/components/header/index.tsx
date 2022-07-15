@@ -11,9 +11,9 @@ function Header() {
                         <p>
                             Desenvolvido por <a href="https://www.instagram.com/devsuperior.ig">@devsuperior.ig</a>
                         </p>
-                        <p>
+                        <h3>
                             Replicado por Gabriel Aguirre
-                        </p>
+                        </h3>
                 </div>
             </header>
         </>
